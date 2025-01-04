@@ -1,4 +1,4 @@
-# 🌐 **Hierarchical Network Design with VLAN Segmentation & Advanced Security**
+# 🖧 **Hierarchical Network Design with VLAN Segmentation & Advanced Security**
 
 ## 📝 **Project Overview**
 Welcome to the **Hierarchical Network Design** project! 🎉 In this project, I’ve designed a robust **three-layer hierarchical network** with **advanced security configurations** and **network segmentation** for optimal performance and security. The network incorporates **VLANs** (Virtual LANs), **Router-on-a-Stick** inter-VLAN routing, **EtherChannel (LACP)**, and **security features** like **SSH**, **Port Security**, and **Rapid Spanning Tree Protocol (RSTP)** to ensure a reliable and secure networking environment.
@@ -36,16 +36,7 @@ In the **DMZ (Demilitarized Zone)**, several key services are configured to simu
 - **Port Security** is applied to prevent unauthorized devices from connecting.
 - **Unused Ports** are disabled to minimize potential attack vectors.
 
-## ⚙️ **Technologies and Tools**
-- **Cisco Packet Tracer**: For network design and simulation.
-- **VTP**: For VLAN configuration propagation across switches.
-- **Router-on-a-Stick**: For routing between VLANs with a single router interface.
-- **LACP**: For link aggregation and network redundancy.
-- **RSTP**: To ensure network stability and fast convergence.
-- **Port Security**: To prevent unauthorized access.
-- **SSH**: Secure access to network devices.
-
-## 🚀 **Objectives**
+## **🚀 Objectives**
 This project aims to:
 1. **Implement a hierarchical network topology** for scalability and performance.
 2. **Segment traffic** into VLANs for improved security and traffic management.
@@ -54,19 +45,14 @@ This project aims to:
 5. **Increase network stability** using **RSTP**.
 6. **Improve security** with **Port Security**, **SSH**, and the disabling of unused ports.
 
-## 🛠 **Getting Started**
+## **🛠 Getting Started**
 1. Clone or download this repository to access all the project files and configurations.
 2. Refer to the **documentation** for detailed steps on setting up the network and configuring services.
 3. Feel free to **fork** the repository and adapt it to your needs!
 
-## 💭 **Future Enhancements**
-- Implement **High-Availability Routing** protocols like **HSRP** or **VRRP** for redundancy.
-- Explore **firewall** and **IDS/IPS** for further security.
-- Migrate to **Software-Defined Networking (SDN)** for more flexible network management.
+## **📧 Contact**
+- **Email**: [aiouazadel6@gmail.com](mailto:aiouazadel6@gmail.com)
+- **LinkedIn**: [Mohamed Adel Aiouaz](https://www.linkedin.com/in/mohamed-adel-aiouaz-10662b282)
 
-## 📞 **Connect with Me**
-I’m always open to feedback, questions, and collaboration! 🤝
-- 📧 **Email**: [aiouazadel6@gmail.com](mailto:aiouazadel6@gmail.com)
-- 🔗 **LinkedIn**: [Mohamed Adel Aiouaz](https://www.linkedin.com/in/mohamed-adel-aiouaz-10662b282)
-
-Let's connect and keep the networking discussions going! 🚀
+---
+Happy Networking! 🚀
